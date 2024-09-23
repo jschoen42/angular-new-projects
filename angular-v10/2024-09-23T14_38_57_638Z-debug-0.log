@@ -1,0 +1,174 @@
+0 verbose cli C:\Program Files\_prog\nodejs\node.exe C:\Users\js\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.8.3
+2 info using node@v20.14.0
+3 silly config load:file:C:\Users\js\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:D:\Angular\angular-v10\.npmrc
+5 silly config load:file:C:\Users\js\.npmrc
+6 silly config load:file:C:\Users\js\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm install
+8 verbose argv "install" "--loglevel" "warn"
+9 verbose logfile logs-max:10 dir:C:\Users\js\AppData\Local\npm-cache\_logs\2024-09-23T14_38_57_638Z-
+10 verbose logfile C:\Users\js\AppData\Local\npm-cache\_logs\2024-09-23T14_38_57_638Z-debug-0.log
+11 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+12 silly logfile start cleaning logs, removing 1 files
+13 silly logfile done cleaning log files
+14 silly idealTree buildDeps
+15 silly fetch manifest @angular/animations@~10.2.4
+16 silly packumentCache full:https://registry.npmjs.org/@angular%2fanimations cache-miss
+17 http fetch GET 200 https://registry.npmjs.org/@angular%2fanimations 53ms (cache hit)
+18 silly packumentCache full:https://registry.npmjs.org/@angular%2fanimations set size:2293249 disposed:false
+19 silly fetch manifest @angular/core@~10.2.4
+20 silly packumentCache full:https://registry.npmjs.org/@angular%2fcore cache-miss
+21 http fetch GET 200 https://registry.npmjs.org/@angular%2fcore 27ms (cache hit)
+22 silly packumentCache full:https://registry.npmjs.org/@angular%2fcore set size:2348234 disposed:false
+23 silly fetch manifest rxjs@~6.6.0
+24 silly packumentCache full:https://registry.npmjs.org/rxjs cache-miss
+25 http fetch GET 200 https://registry.npmjs.org/rxjs 28ms (cache hit)
+26 silly packumentCache full:https://registry.npmjs.org/rxjs set size:1240752 disposed:false
+27 silly fetch manifest zone.js@~0.10.2
+28 silly packumentCache full:https://registry.npmjs.org/zone.js cache-miss
+29 http fetch GET 200 https://registry.npmjs.org/zone.js 17ms (cache hit)
+30 silly packumentCache full:https://registry.npmjs.org/zone.js set size:362397 disposed:false
+31 silly fetch manifest @angular/common@~10.2.4
+32 silly packumentCache full:https://registry.npmjs.org/@angular%2fcommon cache-miss
+33 http fetch GET 200 https://registry.npmjs.org/@angular%2fcommon 29ms (cache hit)
+34 silly packumentCache full:https://registry.npmjs.org/@angular%2fcommon set size:2522257 disposed:false
+35 silly fetch manifest @angular/compiler@~10.2.4
+36 silly packumentCache full:https://registry.npmjs.org/@angular%2fcompiler cache-miss
+37 http fetch GET 200 https://registry.npmjs.org/@angular%2fcompiler 25ms (cache hit)
+38 silly packumentCache full:https://registry.npmjs.org/@angular%2fcompiler set size:2239638 disposed:false
+39 silly fetch manifest @angular/forms@~10.2.4
+40 silly packumentCache full:https://registry.npmjs.org/@angular%2fforms cache-miss
+41 http fetch GET 200 https://registry.npmjs.org/@angular%2fforms 22ms (cache hit)
+42 silly packumentCache full:https://registry.npmjs.org/@angular%2fforms set size:2251167 disposed:false
+43 silly fetch manifest @angular/platform-browser@~10.2.4
+44 silly packumentCache full:https://registry.npmjs.org/@angular%2fplatform-browser cache-miss
+45 http fetch GET 200 https://registry.npmjs.org/@angular%2fplatform-browser 24ms (cache hit)
+46 silly packumentCache full:https://registry.npmjs.org/@angular%2fplatform-browser set size:2525872 disposed:false
+47 silly fetch manifest @angular/platform-browser-dynamic@~10.2.4
+48 silly packumentCache full:https://registry.npmjs.org/@angular%2fplatform-browser-dynamic cache-miss
+49 http fetch GET 200 https://registry.npmjs.org/@angular%2fplatform-browser-dynamic 45ms (cache hit)
+50 silly packumentCache full:https://registry.npmjs.org/@angular%2fplatform-browser-dynamic set size:2547728 disposed:false
+51 silly fetch manifest @angular/router@~10.2.4
+52 silly packumentCache full:https://registry.npmjs.org/@angular%2frouter cache-miss
+53 http fetch GET 200 https://registry.npmjs.org/@angular%2frouter 26ms (cache hit)
+54 silly packumentCache full:https://registry.npmjs.org/@angular%2frouter set size:2461065 disposed:false
+55 silly fetch manifest tslib@^2.0.0
+56 silly packumentCache full:https://registry.npmjs.org/tslib cache-miss
+57 http fetch GET 200 https://registry.npmjs.org/tslib 17ms (cache hit)
+58 silly packumentCache full:https://registry.npmjs.org/tslib set size:104653 disposed:false
+59 silly fetch manifest @angular-devkit/build-angular@~0.1002.1
+60 silly packumentCache full:https://registry.npmjs.org/@angular-devkit%2fbuild-angular cache-miss
+61 http fetch GET 200 https://registry.npmjs.org/@angular-devkit%2fbuild-angular 53ms (cache hit)
+62 silly packumentCache full:https://registry.npmjs.org/@angular-devkit%2fbuild-angular set size:3149777 disposed:false
+63 silly fetch manifest @angular/compiler-cli@~10.2.4
+64 silly packumentCache full:https://registry.npmjs.org/@angular%2fcompiler-cli cache-miss
+65 http fetch GET 200 https://registry.npmjs.org/@angular%2fcompiler-cli 28ms (cache hit)
+66 silly packumentCache full:https://registry.npmjs.org/@angular%2fcompiler-cli set size:2642364 disposed:false
+67 silly fetch manifest typescript@~4.0.2
+68 silly packumentCache full:https://registry.npmjs.org/typescript cache-miss
+69 http fetch GET 200 https://registry.npmjs.org/typescript 82ms (cache hit)
+70 silly packumentCache full:https://registry.npmjs.org/typescript set size:13246498 disposed:false
+71 silly fetch manifest @angular/localize@^10.0.0
+72 silly packumentCache full:https://registry.npmjs.org/@angular%2flocalize cache-miss
+73 http fetch GET 200 https://registry.npmjs.org/@angular%2flocalize 46ms (cache hit)
+74 silly packumentCache full:https://registry.npmjs.org/@angular%2flocalize set size:1811820 disposed:false
+75 silly fetch manifest ng-packagr@^10.0.0
+76 silly packumentCache full:https://registry.npmjs.org/ng-packagr cache-miss
+77 http fetch GET 200 https://registry.npmjs.org/ng-packagr 21ms (cache hit)
+78 silly packumentCache full:https://registry.npmjs.org/ng-packagr set size:928429 disposed:false
+79 silly fetch manifest @angular/cli@~10.2.1
+80 silly packumentCache full:https://registry.npmjs.org/@angular%2fcli cache-miss
+81 http fetch GET 200 https://registry.npmjs.org/@angular%2fcli 24ms (cache hit)
+82 silly packumentCache full:https://registry.npmjs.org/@angular%2fcli set size:2557964 disposed:false
+83 silly fetch manifest @types/node@^12.11.1
+84 silly packumentCache full:https://registry.npmjs.org/@types%2fnode cache-miss
+85 http fetch GET 200 https://registry.npmjs.org/@types%2fnode 50ms (cache hit)
+86 silly packumentCache full:https://registry.npmjs.org/@types%2fnode set size:9059846 disposed:false
+87 silly fetch manifest @types/jasmine@~3.5.0
+88 silly packumentCache full:https://registry.npmjs.org/@types%2fjasmine cache-miss
+89 http fetch GET 200 https://registry.npmjs.org/@types%2fjasmine 36ms (cache hit)
+90 silly packumentCache full:https://registry.npmjs.org/@types%2fjasmine set size:478606 disposed:false
+91 silly fetch manifest @types/jasminewd2@~2.0.3
+92 silly packumentCache full:https://registry.npmjs.org/@types%2fjasminewd2 cache-miss
+93 http fetch GET 200 https://registry.npmjs.org/@types%2fjasminewd2 568ms (cache miss)
+94 silly packumentCache full:https://registry.npmjs.org/@types%2fjasminewd2 set size:undefined disposed:false
+95 silly fetch manifest codelyzer@^6.0.0
+96 silly packumentCache full:https://registry.npmjs.org/codelyzer cache-miss
+97 http fetch GET 200 https://registry.npmjs.org/codelyzer 13ms (cache hit)
+98 silly packumentCache full:https://registry.npmjs.org/codelyzer set size:284096 disposed:false
+99 silly fetch manifest tslint@~6.1.0
+100 silly packumentCache full:https://registry.npmjs.org/tslint cache-miss
+101 http fetch GET 200 https://registry.npmjs.org/tslint 17ms (cache hit)
+102 silly packumentCache full:https://registry.npmjs.org/tslint set size:718215 disposed:false
+103 silly fetch manifest jasmine-core@~3.6.0
+104 silly packumentCache full:https://registry.npmjs.org/jasmine-core cache-miss
+105 http fetch GET 200 https://registry.npmjs.org/jasmine-core 15ms (cache hit)
+106 silly packumentCache full:https://registry.npmjs.org/jasmine-core set size:172986 disposed:false
+107 silly fetch manifest jasmine-spec-reporter@~5.0.0
+108 silly packumentCache full:https://registry.npmjs.org/jasmine-spec-reporter cache-miss
+109 http fetch GET 200 https://registry.npmjs.org/jasmine-spec-reporter 14ms (cache hit)
+110 silly packumentCache full:https://registry.npmjs.org/jasmine-spec-reporter set size:97683 disposed:false
+111 silly fetch manifest karma@~5.0.0
+112 silly packumentCache full:https://registry.npmjs.org/karma cache-miss
+113 http fetch GET 200 https://registry.npmjs.org/karma 29ms (cache hit)
+114 silly packumentCache full:https://registry.npmjs.org/karma set size:3361538 disposed:false
+115 silly fetch manifest karma-chrome-launcher@~3.1.0
+116 silly packumentCache full:https://registry.npmjs.org/karma-chrome-launcher cache-miss
+117 http fetch GET 200 https://registry.npmjs.org/karma-chrome-launcher 17ms (cache hit)
+118 silly packumentCache full:https://registry.npmjs.org/karma-chrome-launcher set size:86885 disposed:false
+119 silly fetch manifest karma-coverage-istanbul-reporter@~3.0.2
+120 silly packumentCache full:https://registry.npmjs.org/karma-coverage-istanbul-reporter cache-miss
+121 http fetch GET 200 https://registry.npmjs.org/karma-coverage-istanbul-reporter 71ms (cache miss)
+122 silly packumentCache full:https://registry.npmjs.org/karma-coverage-istanbul-reporter set size:undefined disposed:false
+123 silly fetch manifest karma-jasmine@~4.0.0
+124 silly packumentCache full:https://registry.npmjs.org/karma-jasmine cache-miss
+125 http fetch GET 200 https://registry.npmjs.org/karma-jasmine 15ms (cache hit)
+126 silly packumentCache full:https://registry.npmjs.org/karma-jasmine set size:165518 disposed:false
+127 silly fetch manifest karma-jasmine-html-reporter@^1.5.0
+128 silly packumentCache full:https://registry.npmjs.org/karma-jasmine-html-reporter cache-miss
+129 http fetch GET 200 https://registry.npmjs.org/karma-jasmine-html-reporter 14ms (cache hit)
+130 silly packumentCache full:https://registry.npmjs.org/karma-jasmine-html-reporter set size:61534 disposed:false
+131 silly fetch manifest jasmine-core@>=3.8
+132 silly packumentCache full:https://registry.npmjs.org/jasmine-core cache-hit
+133 verbose stack Error: unable to resolve dependency tree
+133 verbose stack     at #failPeerConflict (C:\Users\js\AppData\Roaming\npm\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\build-ideal-tree.js:1360:25)
+133 verbose stack     at #loadPeerSet (C:\Users\js\AppData\Roaming\npm\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\build-ideal-tree.js:1326:33)
+133 verbose stack     at async #buildDepStep (C:\Users\js\AppData\Roaming\npm\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\build-ideal-tree.js:901:11)
+133 verbose stack     at async Arborist.buildIdealTree (C:\Users\js\AppData\Roaming\npm\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\build-ideal-tree.js:181:7)
+133 verbose stack     at async Promise.all (index 1)
+133 verbose stack     at async Arborist.reify (C:\Users\js\AppData\Roaming\npm\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\reify.js:131:5)
+133 verbose stack     at async Install.exec (C:\Users\js\AppData\Roaming\npm\node_modules\npm\lib\commands\install.js:150:5)
+133 verbose stack     at async Npm.exec (C:\Users\js\AppData\Roaming\npm\node_modules\npm\lib\npm.js:207:9)
+133 verbose stack     at async module.exports (C:\Users\js\AppData\Roaming\npm\node_modules\npm\lib\cli\entry.js:74:5)
+134 error code ERESOLVE
+135 error ERESOLVE unable to resolve dependency tree
+136 error
+137 error While resolving: angular-v10@0.0.0
+137 error Found: jasmine-core@3.6.0
+137 error node_modules/jasmine-core
+137 error   dev jasmine-core@"~3.6.0" from the root project
+137 error
+137 error Could not resolve dependency:
+137 error peer jasmine-core@">=3.8" from karma-jasmine-html-reporter@1.7.0
+137 error node_modules/karma-jasmine-html-reporter
+137 error   dev karma-jasmine-html-reporter@"^1.5.0" from the root project
+137 error
+137 error Fix the upstream dependency conflict, or retry
+137 error this command with --force or --legacy-peer-deps
+137 error to accept an incorrect (and potentially broken) dependency resolution.
+138 error
+138 error
+138 error For a full report see:
+138 error C:\Users\js\AppData\Local\npm-cache\_logs\2024-09-23T14_38_57_638Z-eresolve-report.txt
+139 silly unfinished npm timer reify 1727102339100
+140 silly unfinished npm timer reify:loadTrees 1727102339109
+141 silly unfinished npm timer idealTree:buildDeps 1727102339146
+142 silly unfinished npm timer idealTree:#root 1727102339148
+143 verbose cwd D:\Angular\angular-v10
+144 verbose os Windows_NT 10.0.22631
+145 verbose node v20.14.0
+146 verbose npm  v10.8.3
+147 verbose exit 1
+148 verbose code 1
+149 error A complete log of this run can be found in: C:\Users\js\AppData\Local\npm-cache\_logs\2024-09-23T14_38_57_638Z-debug-0.log
