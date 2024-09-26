@@ -35,18 +35,25 @@ ng new angular-v13
 npm install -g @angular/cli@14
 ng new angular-v14
 ```
+=> 14.3.0
+
 ```bash
 npm install -g @angular/cli@15
 ng new angular-v15
 ```
+=> 15.2.10
+
 ```bash
 npm install -g @angular/cli@16
 ng new angular-v16
 ```
+=> 16.2.12 - 16.2.16 (cli)
 ```bash
 npm install -g @angular/cli@17
 ng new angular-v17
 ```
+=> 17.3.12 - 17.3.10 (cli)
+
 ```bash
 npm install -g @angular/cli@latest
 ng new angular-v18
