@@ -3,8 +3,6 @@
 folderico-*.ico
 desktop.ini
 
-package-lock.json
-
 # Compiled output
 /dist
 /tmp
